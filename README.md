@@ -5,5 +5,6 @@ In this porject we helped Dana to improve her dynamic webpage about UFO sighting
 
 ## Results
 In the website a table is presented with all collected data on UFO sightings. 
+"https://user-images.githubusercontent.com/90527315/156905223-5eec1229-12fa-4dc9-b87f-c25bcf552ce3.png">
 
 In order to perform a search in this website the user needs to input data in the filters section, which are located 
