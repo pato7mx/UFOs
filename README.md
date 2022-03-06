@@ -8,10 +8,10 @@ In the website a table is presented with all collected data about UFO sightings.
 
 ![image](https://user-images.githubusercontent.com/90527315/156905363-3744d0bc-a47c-48f1-a365-37f374b35a81.png)
 
-Once we have modify the text , a new condesed data is presented that matches 
+Its not necessary to fill in all the blanks, since the data will be filtered only by those. A new table will be presented with data tthata matches the ona introduce by the user.
 
 ![image](https://user-images.githubusercontent.com/90527315/156905309-1f2715d9-3106-4a55-9c77-b36aacfedcdb.png)
 
 ## Summary
 
-Although the page is really intuitive, 
+Although the page is good and really intuitive, the navigation bar is practically useless in its current state, so the website can be improved by adding other tabs to the navigations bar with other type of information about UFOS, not only sightings, but maybe history, etc. Also, the website can display news, videos and links to other UFO websites that encourage the users to dih deeper in this topic.
