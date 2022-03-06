@@ -14,4 +14,4 @@ Its not necessary to fill in all the blanks, since the data will be filtered onl
 
 ## Summary
 
-Although the page is good and really intuitive, the navigation bar is practically useless in its current state, so the website can be improved by adding other tabs to the navigations bar with other type of information about UFOS, not only sightings, but maybe history, etc. Also, the website can display news, videos and links to other UFO websites that encourage the users to dih deeper in this topic.
+Although the page is good and really intuitive, the navigation bar is practically useless in its current state, so the website can be improved by adding other tabs to the navigations bar with other type of information about UFOS, not only sightings, but maybe history, facts, news, etc. Also, the website can have links to other UFO websites that encourage the users to dih deeper in this topic.
